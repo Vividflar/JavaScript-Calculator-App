@@ -42,13 +42,6 @@ Calculator-App/
 
 ---
 
-## 🖼️ Screenshots
-
-### Calculator UI
-*(Add your screenshot here once you run the app)*
-
----
-
 ## 📚 Learning Outcomes
 
 - DOM manipulation with JavaScript.  
