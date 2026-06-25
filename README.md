@@ -49,13 +49,6 @@ Calculator-App/
 
 ---
 
-## 🌐 Live Demo
-
-👉 [View on GitHub Pages](https://vividflar.github.io/Calculator-App/)  
-*(Enable GitHub Pages in repo settings to activate this link)*
-
----
-
 ## 📚 Learning Outcomes
 
 - DOM manipulation with JavaScript.  
